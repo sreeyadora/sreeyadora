@@ -58,11 +58,6 @@
 
 ---
 
-## 🏆 Achievements
-- 🥇 Built **AI models** for healthcare & vision-based tasks  
-- 🏅 Selected for **SDE Intern assessments** (Trilogy Innovations, New Relic, Broadridge)  
-- 📖 Currently working on a **review paper**: *Recent Advancements in Pattern Recognition, ML & Image Processing*  
-
 ---
 
 ## 📊 GitHub Stats
