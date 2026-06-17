@@ -1,73 +1,121 @@
-<h1 align="center">Hi 👋, I'm Sreeya Dora</h1>
-<h3 align="center">AI & ML Enthusiast | Future Software Engineer | Passionate about Intelligent Systems</h3>
+# Featured Projects
 
----
+<details>
+<summary><b>IdeaForge — AI-Powered Full-Stack Application Generator</b></summary>
 
-<p align="center">
-  <em>"Building intelligent systems that solve real-world problems."</em>
-</p>
+### Overview
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sreeyadora&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+IdeaForge is an AI-powered engineering platform that transforms ideas into production-ready full-stack applications. It automates project architecture, API scaffolding, backend generation, and application setup workflows.
 
----
+| Category | Details |
+|-----------|-----------|
+| Stack | Python, FastAPI, AI Agents, LLMs |
+| Scale | Multi-Module Application Generator |
+| Performance | Automated Code Generation Pipeline |
+| Security | Structured Validation & API Security |
+| Impact | Accelerates Software Development |
+| Repository | https://github.com/sreeyadora/IdeaForge |
 
-## 🚀 About Me
-- 🎓 Final-year Engineering student specializing in **AI & Machine Learning**
-- 🧠 Passionate about **Deep Learning, NLP, and Computer Vision**
-- 🌱 Currently exploring **LLMs, Generative AI, and MLOps**
-- 🤝 Open to internships, collaborations, and research opportunities in AI/ML
-- ⚡ Fun fact: I love visualizing algorithms & making learning interactive!
+Built to help developers rapidly transform concepts into deployable software using intelligent automation and AI-assisted engineering.
 
----
+</details>
 
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<details>
+<summary><b>OriginAI — AI vs Human Text Attribution Platform</b></summary>
 
----
+### Overview
 
-## 🌟 Featured Projects
-- 🎥 **[Face Recognition Attendance System](https://github.com/sreeyadora/Face-recognition-based-attendance-system)**  
-  Real-time attendance system using Haar Cascade & KNN, deployed with Flask.  
-  <sub>🔍 Python | OpenCV | scikit-learn | Flask</sub>
+OriginAI is a machine learning platform designed to distinguish AI-generated and human-written content through stylometric analysis, transformer embeddings, and explainable AI techniques.
 
-- ❤️ **[Heart Attack Prediction](https://github.com/sreeyadora/heart-attack-prediction)**  
-  Predicting heart attack risk using ML models trained on health datasets.  
-  <sub>🔍 Python | Pandas | scikit-learn</sub>
+| Category | Details |
+|-----------|-----------|
+| Stack | Python, FastAPI, React, NLP, Machine Learning |
+| Scale | 20,000+ Text Samples |
+| Performance | 92%+ Classification Accuracy |
+| Security | JWT Authentication |
+| Impact | AI Content Verification |
+| Repository | https://github.com/sreeyadora/OriginAI-AI-vs-Human-Text-Detection-Platform-Know-the-true-origin-of-every-text |
 
-- 🧠 **[Brain Tumor Detection](https://github.com/sreeyadora/Brain_Tumor_Detection)**  
-  CNN model to classify MRI scans for tumor detection.  
-  <sub>🔍 Python | TensorFlow | Keras | OpenCV</sub>
+Combines stylometric features with transformer-based intelligence to improve AI-content detection across multiple LLM families.
 
-- 📊 **[Sorting Visualizer](https://github.com/sreeyadora/Sorting_visualizer)**  
-  Interactive visualization tool for sorting algorithms.  
-  <sub>🔍 Python | Tkinter</sub>
+</details>
 
-- 🤖 **Conversational AI Banking Assistant (Coming Soon)**  
-  Intelligent chatbot for handling banking queries with mock APIs.  
-  <sub>🔍 FastAPI | NLP | Streamlit</sub>
+<details>
+<summary><b>Face Recognition Attendance System</b></summary>
 
+### Overview
 
+An intelligent attendance management system leveraging computer vision and facial recognition technologies to automate attendance tracking.
 
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/sreeya-dora">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sreeyadora@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+| Category | Details |
+|-----------|-----------|
+| Stack | Python, OpenCV, Computer Vision |
+| Scale | Multi-User Attendance System |
+| Performance | Real-Time Recognition |
+| Security | Identity Verification |
+| Impact | Attendance Automation |
+| Repository | https://github.com/sreeyadora/Face-recognition-based-attendance-system |
 
----
+Designed to eliminate manual attendance processes through automated face detection and recognition workflows.
 
-<p align="center">⭐ If you like my work, feel free to star my repositories or reach out for collaborations!</p>
+</details>
+
+<details>
+<summary><b>Ramaiah Link — Networking & Mentorship Platform</b></summary>
+
+### Overview
+
+A centralized networking ecosystem connecting RUAS students, alumni, and faculty through mentorship, opportunities, and career guidance.
+
+| Category | Details |
+|-----------|-----------|
+| Stack | TypeScript, Full Stack Development |
+| Scale | University Community Platform |
+| Performance | Real-Time User Engagement |
+| Security | Role-Based Access Control |
+| Impact | Professional Networking |
+| Repository | https://github.com/sreeyadora/Ramaiah_Link |
+
+Built to strengthen collaboration, mentorship, and career development within the university ecosystem.
+
+</details>
+
+<details>
+<summary><b>Equipment Tracker</b></summary>
+
+### Overview
+
+A full-stack equipment management platform enabling inventory tracking, resource allocation, and operational monitoring.
+
+| Category | Details |
+|-----------|-----------|
+| Stack | React, Node.js, JavaScript |
+| Scale | Equipment Management System |
+| Performance | Optimized CRUD Operations |
+| Security | Protected Data Operations |
+| Impact | Asset Tracking Automation |
+| Repository | https://github.com/sreeyadora/Equipment-tracker |
+
+Features inventory tracking, search, filtering, sorting, and lifecycle management workflows.
+
+</details>
+
+<details>
+<summary><b>Secure Banking Assistant</b></summary>
+
+### Overview
+
+An AI-powered banking assistant designed to improve customer support workflows and intelligent financial query resolution.
+
+| Category | Details |
+|-----------|-----------|
+| Stack | Python, NLP, Conversational AI |
+| Scale | Financial Services Application |
+| Performance | Intelligent Query Handling |
+| Security | Banking-Oriented Security Design |
+| Impact | Customer Support Automation |
+| Repository | https://github.com/sreeyadora/secure_banking_assistant |
+
+Demonstrates the integration of AI-powered conversational systems within secure financial environments.
+
+</details>
