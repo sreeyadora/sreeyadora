@@ -617,12 +617,10 @@ A small but practical automation utility — demonstrates ability to ship self-c
 
 ## Experience
 
-> Currently project-driven rather than formal industry experience — framed below as applied engineering practice. Replace/expand once internships or research roles are confirmed.
-
-| Role | Focus | Timeline |
-|---|---|---|
-| **Independent AI/Full-Stack Engineer** (Self-directed) | Designed and shipped 14+ production-style projects spanning AI/ML, full-stack web, and computer vision | `[Confirm date range]` |
-| **B.Tech Research/Coursework Projects** — RUAS | Applied AI/ML coursework into deployable systems (Brain Tumor Detection, Heart Attack Prediction) rather than notebook-only assignments | `[Confirm date range]` |
+| Role | Focus |
+|---|---|
+| **Independent AI & Full-Stack Engineer** | Building AI and full-stack projects independently, from idea to working product |
+| **B.Tech, AI & ML — RUAS** | Applying coursework to real, deployable projects rather than notebook-only assignments |
 
 <br/>
 
