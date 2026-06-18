@@ -695,10 +695,10 @@ A small but practical automation utility — demonstrates ability to ship self-c
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:sreeya.dr@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach%20Out-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0B3D"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+<a href="https://www.linkedin.com/in/sreeya-dora/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0B3D"/>
 </a>
 
