@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=B19CD9&center=true&vCenter=true&width=720&height=50&lines=Building+AI+systems+that+ship.;Full-Stack+Engineer+%2B+ML+Practitioner.;Turning+research+into+production+software.;Final-Year+AI%2FML+Engineer+%E2%80%94+Class+of+2026." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=B19CD9&center=true&vCenter=true&width=720&height=50&lines=Building+AI+systems+that+ship.;Full-Stack+Engineer+%2B+ML+Practitioner.;Turning+research+into+production+software.;AI%2FML+Engineering+Graduate+%E2%80%94+Class+of+2026." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -44,9 +44,7 @@
 
 ## Profile
 
-> **Placeholder note:** the bio below is written to be swapped in with your real specifics — replace bracketed items with your actual focus areas, achievements, and numbers once confirmed.
-
-I'm a final-year **AI & Machine Learning** engineering student at **M. S. Ramaiah University of Applied Sciences**, building production-grade software at the intersection of **applied AI, full-stack engineering, and product design**.
+I'm an **AI & Machine Learning** engineering graduate from **M. S. Ramaiah University of Applied Sciences**, building production-grade software at the intersection of **applied AI, full-stack engineering, and product design**.
 
 My work is centered on one premise: AI is only valuable when it ships as a working product, not a notebook. That's reflected in how I build — from **[IdeaForge]**, a full-stack application generator powered by LLMs, to **[OriginAI]**, a text-attribution system tackling AI-content detection, through to computer-vision, healthcare-AI, and full-stack platforms used in real academic and community settings.
 
@@ -72,7 +70,7 @@ I'm looking to bring this combination — AI depth + software engineering breadt
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css&theme=dark"/>
 
 </td>
 <td valign="top" width="50%">
@@ -117,11 +115,7 @@ I'm looking to bring this combination — AI depth + software engineering breadt
 </tr>
 </table>
 
-> Placeholder: confirm which of these you actually use day-to-day vs. aspirational — recruiters cross-check stack claims against repo commits, so this list should match what's visible in your code.
 
-<br/>
-
-## AI & ML Expertise
 
 | Domain | Tools & Frameworks | Applied In |
 |---|---|---|
@@ -624,23 +618,20 @@ A small but practical automation utility — demonstrates ability to ship self-c
 
 <br/>
 
-## Achievements
-
-> Placeholder section — replace with real items: hackathon placements, university recognitions, open-source contributions, publications, or notable project traction (stars/forks/usage).
-
-- `[Placeholder achievement 1]`
-- `[Placeholder achievement 2]`
-- `[Placeholder achievement 3]`
-
-<br/>
-
 ## Certifications
 
-> Placeholder — list actual certifications (e.g., cloud, ML specializations, coursework credentials) here.
-
-| Certification | Issuer | Year |
+| Certification | Issuer | Credential ID |
 |---|---|---|
-| `[Placeholder]` | `[Placeholder]` | `[Placeholder]` |
+| Microsoft Azure Data Scientist Associate (DP-100) Exam Prep | Microsoft | J0DU2IASERWE |
+| Perform Data Science with Azure Databricks | Microsoft | UBYYBSF4LR4S |
+| Prepare for DP-100: Data Science on Microsoft Azure Exam | Microsoft | 8QE4EEWA26N4 |
+| Build and Operate Machine Learning Solutions with Azure | Microsoft | 4WLQ39DC28UF |
+| Microsoft Azure Machine Learning for Data Scientists | Microsoft | I70M6WD5RIF1 |
+| Create Machine Learning Models in Microsoft Azure | Microsoft | 7V3990YK9HOY |
+| Generative AI: Introduction and Applications | IBM | FKOSZG3V53XR |
+| Generative AI: Elevate Your Software Development Career | IBM | MRQ66M3UJXRA |
+| Generative AI: Prompt Engineering Basics | IBM | FXHYN2LB3V7E |
+| HSBC Hackathon 2025 — Certificate of Participation | HSBC Technology India, IITB Trust Lab, T-Hub | — |
 
 <br/>
 
@@ -693,10 +684,10 @@ A small but practical automation utility — demonstrates ability to ship self-c
 
 ## Current Focus
 
-- Deepening production-grade LLM application architecture (retrieval, agentic workflows, structured generation)
-- Strengthening system design fundamentals for scalable full-stack systems
-- Preparing for **Software Engineer / AI Engineer / ML Engineer** roles for 2026 graduation
-- `[Placeholder: add any current learning goal, e.g. specific cloud cert, specific ML subfield]`
+- Looking forward to joining a company to gain real-world engineering experience and contribute to production systems
+- Continuously learning new tools, frameworks, and best practices across AI and full-stack development
+- Deepening hands-on experience with cloud-based ML workflows (Azure) and generative AI applications
+- Open to **Software Engineer / AI Engineer / ML Engineer / Full-Stack Developer** roles
 
 <br/>
 
